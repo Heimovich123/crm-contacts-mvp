@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Иван Петров",
+    "email": "ivan.petrov@example.com",
+    "phone": "+7 (900) 111-22-33",
+    "status": "активный"
+  },
+  {
+    "id": 2,
+    "name": "Anna Smith",
+    "email": "anna.smith@example.com",
+    "phone": "+1 202 555 0179",
+    "status": "неактивный"
+  },
+  {
+    "id": 3,
+    "name": "李雷",
+    "email": "li.lei@example.com",
+    "phone": "+86 10 8888 0000",
+    "status": "активный"
+  },
+  {
+    "id": 4,
+    "name": "Test User",
+    "email": "test@ex.com",
+    "phone": "+7 999 111 22 33",
+    "status": "активный"
+  },
+  {
+    "id": 5,
+    "name": "Артём",
+    "email": "ktiemka@mail.ru",
+    "phone": "+79832822334",
+    "status": "активный"
+  }
+]
